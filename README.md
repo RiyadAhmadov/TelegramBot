@@ -1,7 +1,7 @@
 # TelegramBot
 My own Telegram bot
 
-![Telegram Bot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FEhsanShahbazii%2FUsefull-Telegram-Bots&psig=AOvVaw3JU8f5aj6CdLweWpMngIF_&ust=1699702178231000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC-tpSquYIDFQAAAAAdAAAAABAE)
+![Telegram Bot](https://camo.githubusercontent.com/3ba502b05fd144d4b8941588e23553d2d6fcd36e31c71840a51cbe94a0de25d3/68747470733a2f2f656873616e2e73746f726167652e6972616e2e6c696172612e73706163652f6769742d6875622f25323055736566756c6c2d54656c656772616d2d426f74732f707265766965772e706e67)
 
 **Telegram bot is like a virtual assistant that runs on the Telegram messaging app. It's not a real person but a computer program designed to perform different tasks. Here's a breakdown:** 
 
